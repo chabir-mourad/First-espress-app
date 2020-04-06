@@ -1,0 +1,10 @@
+* {
+    margin: 0em;
+    padding: 0em;
+    
+  }
+  .cards {
+    display: flex;
+      justify-content: space-around;
+  
+   }
